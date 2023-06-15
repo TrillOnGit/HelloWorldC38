@@ -1,0 +1,15 @@
+/home/trillion/Repos/HelloWorld/bin/Debug/net7.0/HelloWorld
+/home/trillion/Repos/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/home/trillion/Repos/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/home/trillion/Repos/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/home/trillion/Repos/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/home/trillion/Repos/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/home/trillion/Repos/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/trillion/Repos/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/home/trillion/Repos/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/home/trillion/Repos/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/trillion/Repos/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/home/trillion/Repos/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/home/trillion/Repos/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/home/trillion/Repos/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/home/trillion/Repos/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
